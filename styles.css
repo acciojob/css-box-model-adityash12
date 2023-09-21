@@ -1,2 +1,9 @@
-
+#divBox{
+	width:300px;
+	box-sizing:border-box;
+	border:15px solid blue;
+	padding:50px;
+	margin:20px;
+	background-color:#5b49f7;
+}
 /* Your CSS Code here. */
